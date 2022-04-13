@@ -4,7 +4,7 @@
 #Ejemplo práctico: Asignar a la carpeta Publico los permisos de red siguientes en el dominio smr.local:
 #------------------------------------------------------------------------------
 #Directorio Publico en F:
-#Aceso sólo lectura a los usuarios del departamento de Marketing
+#Acceso sólo lectura a los usuarios del departamento de Marketing
 #Acceso lectura y cambio para los usuarios del departamento de Informática
 
 #Acceso Total (FullAccess) para el grupo Administradores
